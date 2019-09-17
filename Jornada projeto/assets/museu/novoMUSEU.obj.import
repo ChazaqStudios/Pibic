@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/novoMUSEU.obj-ea681567200cd8d49d86f9925eff7740.mesh"
+
+[deps]
+
+files=[ "res://.import/novoMUSEU.obj-ea681567200cd8d49d86f9925eff7740.mesh" ]
+
+source_file="res://assets/museu/novoMUSEU.obj"
+dest_files=[ "res://.import/novoMUSEU.obj-ea681567200cd8d49d86f9925eff7740.mesh", "res://.import/novoMUSEU.obj-ea681567200cd8d49d86f9925eff7740.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

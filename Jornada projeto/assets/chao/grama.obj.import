@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grama.obj-6bdeb4b7e3fbd92e0cab999aad3ab6a6.mesh"
+
+[deps]
+
+files=[ "res://.import/grama.obj-6bdeb4b7e3fbd92e0cab999aad3ab6a6.mesh" ]
+
+source_file="res://assets/chao/grama.obj"
+dest_files=[ "res://.import/grama.obj-6bdeb4b7e3fbd92e0cab999aad3ab6a6.mesh", "res://.import/grama.obj-6bdeb4b7e3fbd92e0cab999aad3ab6a6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

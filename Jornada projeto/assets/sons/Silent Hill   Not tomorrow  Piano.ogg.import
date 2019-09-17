@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Silent Hill   Not tomorrow  Piano.ogg-3befc54868800a05e78ac2e501c22a1b.oggstr"
+
+[deps]
+
+source_file="res://assets/sons/Silent Hill   Not tomorrow  Piano.ogg"
+dest_files=[ "res://.import/Silent Hill   Not tomorrow  Piano.ogg-3befc54868800a05e78ac2e501c22a1b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

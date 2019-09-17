@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/GalhoNORM.png-c8fb51ef65d21817c6e8b046c0b32a96.s3tc.stex"
+path.etc2="res://.import/GalhoNORM.png-c8fb51ef65d21817c6e8b046c0b32a96.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://AssetsD/assets floresta/Texturas/MangalPequeno/GalhoNORM.png"
+dest_files=[ "res://.import/GalhoNORM.png-c8fb51ef65d21817c6e8b046c0b32a96.s3tc.stex", "res://.import/GalhoNORM.png-c8fb51ef65d21817c6e8b046c0b32a96.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=false
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

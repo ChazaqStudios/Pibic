@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/MuseuPIBIC2.obj-e77df60434ef411db783f456767b2e10.mesh"
+
+[deps]
+
+files=[ "res://.import/MuseuPIBIC2.obj-e77df60434ef411db783f456767b2e10.mesh" ]
+
+source_file="res://assets/museu/MuseuPIBIC2.obj"
+dest_files=[ "res://.import/MuseuPIBIC2.obj-e77df60434ef411db783f456767b2e10.mesh", "res://.import/MuseuPIBIC2.obj-e77df60434ef411db783f456767b2e10.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

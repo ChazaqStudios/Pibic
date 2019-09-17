@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Arvore.obj-4649e4cde7dfc5a8818a99d82faa2064.mesh"
+
+[deps]
+
+files=[ "res://.import/Arvore.obj-4649e4cde7dfc5a8818a99d82faa2064.mesh" ]
+
+source_file="res://assets/chao/Arvore.obj"
+dest_files=[ "res://.import/Arvore.obj-4649e4cde7dfc5a8818a99d82faa2064.mesh", "res://.import/Arvore.obj-4649e4cde7dfc5a8818a99d82faa2064.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

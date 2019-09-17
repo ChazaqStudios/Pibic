@@ -1,0 +1,16 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://Shader_Code.shader" type="Shader" id=1]
+[ext_resource path="res://water_new_height.png" type="Texture" id=2]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/main_color = Color( 0.0901961, 0.282353, 0.356863, 1 )
+shader_param/specular = 1.0
+shader_param/roughness = 0.0
+shader_param/metallic = 0.836
+shader_param/speed = 0.007
+shader_param/scale = 1.669
+shader_param/normal_map = ExtResource( 2 )
+shader_param/normal2 = ExtResource( 2 )
+

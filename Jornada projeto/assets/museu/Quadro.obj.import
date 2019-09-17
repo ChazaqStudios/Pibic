@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quadro.obj-f75d3f2ec848af668f91e0ce9dc580a5.mesh"
+
+[deps]
+
+files=[ "res://.import/Quadro.obj-f75d3f2ec848af668f91e0ce9dc580a5.mesh" ]
+
+source_file="res://assets/museu/Quadro.obj"
+dest_files=[ "res://.import/Quadro.obj-f75d3f2ec848af668f91e0ce9dc580a5.mesh", "res://.import/Quadro.obj-f75d3f2ec848af668f91e0ce9dc580a5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

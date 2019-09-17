@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Silent Hill 2   Theme of Laura Cover.ogg-dfb93925f95fd24e2fa611e344a59acc.oggstr"
+
+[deps]
+
+source_file="res://assets/sons/Silent Hill 2   Theme of Laura Cover.ogg"
+dest_files=[ "res://.import/Silent Hill 2   Theme of Laura Cover.ogg-dfb93925f95fd24e2fa611e344a59acc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

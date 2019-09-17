@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Museu.obj-d9312d42fa27be76c0ddb01b9b3585ec.mesh"
+
+[deps]
+
+files=[ "res://.import/Museu.obj-d9312d42fa27be76c0ddb01b9b3585ec.mesh" ]
+
+source_file="res://assets/museu/Museu.obj"
+dest_files=[ "res://.import/Museu.obj-d9312d42fa27be76c0ddb01b9b3585ec.mesh", "res://.import/Museu.obj-d9312d42fa27be76c0ddb01b9b3585ec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Museuporta.obj-8f1e605bd7cbf0291c3b367f13cb9427.mesh"
+
+[deps]
+
+files=[ "res://.import/Museuporta.obj-8f1e605bd7cbf0291c3b367f13cb9427.mesh" ]
+
+source_file="res://assets/museu/Museuporta.obj"
+dest_files=[ "res://.import/Museuporta.obj-8f1e605bd7cbf0291c3b367f13cb9427.mesh", "res://.import/Museuporta.obj-8f1e605bd7cbf0291c3b367f13cb9427.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
